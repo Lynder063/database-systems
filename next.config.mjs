@@ -3,11 +3,7 @@ import createMDX from "@next/mdx";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/database-systems",
-  assetPrefix: "/database-systems/",
-  images: {
-    unoptimized: true,
-  },
+  output: "export",
   pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
   // Remove output: "export"
 };

@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import Priklady from "../md-files/priklady.mdx";
 import "highlight.js/styles/atom-one-dark.css";
 import Navbar from "../(components)/navbar";

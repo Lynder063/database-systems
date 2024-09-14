@@ -6,6 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: "/database-systems",
+  assetPrefix: "/database-systems/",
   // Optionally, add any other Next.js config below
 };
 

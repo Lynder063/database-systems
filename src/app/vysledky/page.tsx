@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import Vysledky from "../md-files/vysledky.mdx";
 import "highlight.js/styles/atom-one-dark.css";
 import Navbar from "../(components)/navbar";

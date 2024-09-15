@@ -61,7 +61,8 @@ export default function Homepage() {
                 Výsledky
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Projdi si výsledky k materiálům.
+                Podívejte se na příklady a jejich výsledky z oblasti
+                databázových systémů.
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row lg:justify-end">

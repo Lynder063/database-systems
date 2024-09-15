@@ -54,14 +54,14 @@ export default function Homepage() {
             </div>
           </div>
         </section>
-        <section id="vysledky" className="py-12 md:py-12">
+        <section id="teorie" className="py-12 md:py-12">
           <div className="container grid items-center bg-slate-50 p-12 rounded-lg justify-center gap-6 px-4 mx-auto md:px-6 lg:grid-cols-2 lg:gap-10">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">
                 Výsledky
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Podívejte se na výsledky příkladů.
+                Projdi si výsledky k materiálům.
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row lg:justify-end">

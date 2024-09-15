@@ -27,8 +27,16 @@ export default function RootLayout({
     <html lang="cz">
       <head>
         <link rel="manifest" href="/database-systems/manifest.json" />
-        <link rel="apple-touch-icon" href="icons/apple-icon-180.png" />
+        <link
+          rel="apple-touch-icon"
+          href="/database-systems/icon512_rounded.png"
+        />
         <meta name="apple-mobile-web-app-capable" content="yes" />
+        <link
+          rel="icon"
+          href="/database-systems/icons/apple-icon"
+          sizes="any"
+        />
         <link
           rel="apple-touch-startup-image"
           href="/database-systems/icons/apple-splash-2048-2732.jpg"

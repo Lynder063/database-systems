@@ -1,5 +1,10 @@
 # Database systems
 
+## TODO
+
+- [] Syntax highlighting in subpages
+- [] PWA with icon and add icon
+
 ## Technologies Used
 
 - React.js

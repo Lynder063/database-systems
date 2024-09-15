@@ -1,3 +1,5 @@
+"use client";
+
 import Footbar from "../(components)/footer";
 import Teorie from "../md-files/teorie.mdx";
 import "highlight.js/styles/atom-one-dark.css";

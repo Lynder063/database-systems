@@ -1,4 +1,4 @@
-# Database systems 1
+# Database systems
 
 ## Technologies Used
 

@@ -8,7 +8,7 @@ export default function Homepage() {
     <div className="flex flex-col min-h-screen bg-gray-300">
       <Navbar />
       <main className="flex-1 text-black">
-        <section id="pravni" className="py-12 md:py-24">
+        <section id="pravni" className="py-8 md:py-8">
           <div className="bg-red-800 text-red-200 container grid items-center gap-2 px-10 mx-auto md:px-6 lg:grid-cols-1 lg:gap-1 rounded-xl p-10">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight text-center">
@@ -32,7 +32,7 @@ export default function Homepage() {
           </div>
         </section>
 
-        <section id="zadani" className="py-12 md:py-12">
+        <section id="zadani" className="py-8 md:py-8">
           <div className="container grid items-center bg-slate-50 p-12 rounded-lg justify-center gap-6 px-4 mx-auto md:px-6 lg:grid-cols-2 lg:gap-10">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">
@@ -54,7 +54,7 @@ export default function Homepage() {
             </div>
           </div>
         </section>
-        <section id="teorie" className="py-12 md:py-12">
+        <section id="teorie" className="py-8 md:py-8">
           <div className="container grid items-center bg-slate-50 p-12 rounded-lg justify-center gap-6 px-4 mx-auto md:px-6 lg:grid-cols-2 lg:gap-10">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">
@@ -76,7 +76,7 @@ export default function Homepage() {
             </div>
           </div>
         </section>
-        <section id="teorie" className="py-12 md:py-12">
+        <section id="teorie" className="py-8 md:py-8">
           <div className="container grid items-center bg-slate-50 p-12 rounded-lg justify-center gap-6 px-4 mx-auto md:px-6 lg:grid-cols-2 lg:gap-10">
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">

@@ -4,7 +4,6 @@
 
 - [ ] Syntax highlighting in subpages
 - [ ] PWA with icon and add icon
-- [ ] Make proper styling for MD files
 
 ## Technologies Used
 

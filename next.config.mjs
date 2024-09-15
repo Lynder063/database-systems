@@ -5,6 +5,8 @@ import createMDX from "@next/mdx";
 const nextConfig = {
   output: "export",
   pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
+  basePath: "/database-systems",
+  assetPrefix: "/database-systems/",
   // Remove output: "export"
 };
 

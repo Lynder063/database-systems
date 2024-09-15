@@ -6,7 +6,11 @@ export default function Footbar() {
       <div className="flex flex-row max-w-7xl mt-6 text-md font-semibold ">
         <p className="text-center">
           Pokud jste našli nějakou chybu, prosím,{" "}
-          <Link href="#" className="underline" prefetch={false}>
+          <Link
+            href="https://github.com/Lynder063/database-systems/issues"
+            className="underline"
+            prefetch={false}
+          >
             otevřete issue na GitHubu
           </Link>
           .

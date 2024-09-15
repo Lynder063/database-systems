@@ -1,6 +1,5 @@
 "use client";
 import Link from "next/link";
-import "highlight.js/styles/atom-one-dark.css";
 import Navbar from "./(components)/navbar";
 
 export default function Homepage() {

@@ -14,7 +14,6 @@ export default function TeorieComponent() {
           <Teorie />
         </div>
       </main>
-
       <Footbar />
     </div>
   );
